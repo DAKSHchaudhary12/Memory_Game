@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(51, 51, 51);
+    margin: 0;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 1rem;
+    letter-spacing: 3px;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+.tiles
+{
+    margin: 48px auto;
+    width:max-content;
+    display: grid;
+    grid-template-columns: repeat(4,100px);
+    gap: 1rem;
+    box-sizing: border-box;
+}
+
+.tile{
+    height: 100px;
+    background:#111;
+    border: 5px solid #4444;
+    cursor: pointer;
+}
+

@@ -9,7 +9,7 @@ Here's how the game works:-
 
 * The player then flips over two cards, selecting them by clicking on them.
 
-* If the two tiles have the same image, they remain face up. If not, they should be flipped face down again after a short delay.
+* If the two tiles have the same color, they remain face up. If not, they should be flipped face down again after a short delay.
 
 
 
